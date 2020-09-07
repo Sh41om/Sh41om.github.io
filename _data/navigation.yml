@@ -4,6 +4,8 @@ main:
     url: /diary/
   - title: "posts"
     url: /posts/
+- title: "books"
+    url: /books/
 
 
 
