@@ -1,15 +1,15 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              Sanghyun's Diary
+email:              s_anghyun@naver.com
+description:        Redeeming the time, because the days are evil (Ephesians 5:16)
+author:             Sanghyun
 baseurl:            ""
 url:                "https://sh41om.github.io/"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
+twitter_username:   
+github_username:    Sh41om
+facebook_username:  
+instagram_username: shalom_1412 
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
