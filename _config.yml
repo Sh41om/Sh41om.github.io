@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sanghyun's diary"
+title                    : "Sh41om's diary"
 title_separator          : "-"
-subtitle                 : "Redeeming the time" # site tagline that appears below site title in masthead
-name                     : "Sanghyun"
-description              : "want to commit daily"
+subtitle                 : "Making the most of every opportunity, because the days are evil (Ephesians 5:16)" # site tagline that appears below site title in masthead
+name                     : "Sh41om"
+description              : "want to understand what the Lords will is."
 url                      : "https://sh41om.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,15 +93,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "SangHyun"
+  name             : "Sh41om"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "컴퓨터 보안 공부하는 대학생입니다."
   location         : "South Korea"
-  email            :
+  email            : "s_anghyun@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:tkdgus0405@gmail.com"
+      # url: "mailto:s_anghyun@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://sh41om.github.io"
