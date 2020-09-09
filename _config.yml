@@ -98,7 +98,7 @@ author:
   bio              : "learning cyber security"
   location         : "South Korea"
   email            : "s_anghyun@naver.com"
-  github	   : "https://github.com/sh41om"
+  github	   : "sh41om"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
