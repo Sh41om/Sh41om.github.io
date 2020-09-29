@@ -1,11 +1,9 @@
 # main links
 main:
-  - title: "diary"
-    url: /diary/
-  - title: "posts"
-    url: /posts/
-  - title: "books"
-    url: /books/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
 
 
 
